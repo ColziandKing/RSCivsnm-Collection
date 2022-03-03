@@ -1,0 +1,41 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Ship Graveyard
+  rotate: false
+  xy: 1952, 23
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+  TileSets/FantasyHex/Tiles/Seed Vault
+  rotate: false
+  xy: 1792, 19
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Seminary
+  rotate: false
+  xy: 1912, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Settlement
+  rotate: false
+  xy: 1872, 6
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+  TileSets/FantasyHex/Tiles/Oracle
+  rotate: false
+  xy: 1440, 4
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
