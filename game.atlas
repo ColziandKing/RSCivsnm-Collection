@@ -4,7 +4,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/FantasyHex/Tiles/Ship Graveyard
+TileSets/FantasyHex/Tiles/Shipwreck
   rotate: false
   xy: 1952, 23
   size: 32, 34
