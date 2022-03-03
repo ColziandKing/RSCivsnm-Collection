@@ -39,3 +39,10 @@ TileSets/FantasyHex/Tiles/Settlement
   orig: 32, 36
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Isolated Island
+  rotate: false
+  xy: 1432, 150
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
