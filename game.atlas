@@ -46,3 +46,10 @@ TileSets/FantasyHex/Tiles/Isolated Island
   orig: 32, 33
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Holy Place
+  rotate: false
+  xy: 1460, 1552
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
