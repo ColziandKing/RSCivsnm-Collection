@@ -1,6 +1,6 @@
 [
     {
-		"name": "Salumi",
+		"name": "Palneothic",
 		"leaderName": "Sarita Sephira Saldrigal",
 		"adjective": ["Salumian"],
 		"startBias": ["Plain","Jungle"],
@@ -27,7 +27,7 @@
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
 	},
 	{
-		"name": "Salumi",
+		"name": "Syndria Operations",
 		"leaderName": "Sarita Sephira Saldrigal",
 		"adjective": ["Salumian"],
 		"startBias": ["Plain","Jungle"],
@@ -54,7 +54,7 @@
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
 	},
 	{
-		"name": "Salumi",
+		"name": "Relmorgius",
 		"leaderName": "Sarita Sephira Saldrigal",
 		"adjective": ["Salumian"],
 		"startBias": ["Plain","Jungle"],
@@ -81,7 +81,7 @@
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
 	},
 	{
-		"name": "Salumi",
+		"name": "Arxemlio",
 		"leaderName": "Sarita Sephira Saldrigal",
 		"adjective": ["Salumian"],
 		"startBias": ["Plain","Jungle"],
@@ -108,7 +108,7 @@
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
 	},
 	{
-		"name": "Salumi",
+		"name": "Magroonaguio",
 		"leaderName": "Sarita Sephira Saldrigal",
 		"adjective": ["Salumian"],
 		"startBias": ["Plain","Jungle"],
@@ -129,20 +129,9 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feminine Love",
-		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","[+30]% Strength <vs [Barbarian] units>", "Receive a free Social Policy when you advance to the next era"],
+		"uniques": ["[+30]% Strength for cities <when attacking>","[+30]% Strength <vs [Barbarian] units>", "Receive a free Social Policy when you advance to the next era"],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
-	},
-# Palneothic
-    Originally Worlds Universe, mammoth and gauchos
-# Syndria Operations
-    industrial  
-# Servwhann
-    adjective Servws, religious, restaurant market
-# Dorgainnodus, Naigdor is city. zeikond
-    
-# Arxemlio
-    
-# Magroonaguio 
-    City-state no settlers "[+30]% Strength for cities <when attacking>", a great defense but can have its own cities if given settlers, a suzerainee
+	}
+]
