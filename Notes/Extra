@@ -3,3 +3,6 @@ Fullysia "Starts with [Animal Husbandry]","Starts with [The Wheel]"
 	"Starts with [Mining]","Starts with [Bronze Working]"
 	"Starts with [Writing]","Starts with [Calendar]"
 	"Starts with [Archery]","Starts with [Trapping]"
+"[-100]% Culture cost of adopting new Policies",
+			    "[+1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]",
+			    "Starts with [Pottery]","Starts with [Animal Husbandry]","Starts with [Mining]","Starts with [The Wheel]","Starts with [Globalization]"]
