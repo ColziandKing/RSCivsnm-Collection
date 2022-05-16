@@ -21,7 +21,7 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feminine Love",
-		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","[+30]% Strength <vs [Barbarian] units>", "Receive a free Social Policy when you advance to the next era"],
+		"uniques": [],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
@@ -75,7 +75,7 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feminine Love",
-		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","[+30]% Strength <vs [Barbarian] units>", "Receive a free Social Policy when you advance to the next era"],
+		"uniques": ["Starts with [Writing]"],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
@@ -102,7 +102,7 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feminine Love",
-		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","[+30]% Strength <vs [Barbarian] units>", "Receive a free Social Policy when you advance to the next era"],
+		"uniques": ["Starts with [Masonry]"],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
