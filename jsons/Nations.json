@@ -21,7 +21,7 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feminine Love",
-		"uniques": ["[+2 Faith] from every [Mountain]","[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
+		"uniques": ["[+2 Faith] from every [Mountain]",
 			   "[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>",
 			   "[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>",
 			   "Units ignore terrain costs when moving into any tile with Hills"],
@@ -54,8 +54,7 @@
 		"uniques": ["[+2 Happiness] from every [Mountain]",
 			    "[-50]% maintenance on road & railroads",
 			"No Maintenance costs for improvements in [Hill] tiles",
-			   "[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced","Double quantity of [Iron] produced","Double quantity of [Uranium] produced",
-			   ],
+			   "[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced","Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
@@ -143,7 +142,7 @@
 		"uniques": ["Cannot build [Settler] units","[+30]% Strength for cities <when attacking>","[+30]% Strength <vs [Barbarian] units>",
 			    "Receive a free [Great General] when you discover [Horseback Riding]","Great General provides double combat bonus", 
 			    "Receive triple Gold from Barbarian encampments and pillaging Cities", "[Great General] is earned [50]% faster",
-			   "[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast", "\"Borrows\" city names from other civilizations in the game"],
+			    "\"Borrows\" city names from other civilizations in the game"],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
@@ -154,3 +153,4 @@ unused "Receive a free [Settler] when you discover [Bronze Working]"] "Receive a
 "May choose [2] additional belief(s) of any type when [founding] a religion",
 "When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>","[-25]% maintenance costs <for [Land] units>",
 "[-66]% maintenance costs <for [Water] units>","When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>",
+bootleg of maya calendar not anymore
