@@ -21,7 +21,10 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feminine Love",
-		"uniques": [],
+		"uniques": ["[+2 Faith] from every [Mountain]","[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
+			   "[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>",
+			   "[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>",
+			   "Units ignore terrain costs when moving into any tile with Hills"],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
@@ -48,7 +51,11 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feminine Love",
-		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","[+30]% Strength <vs [Barbarian] units>", "Receive a free Social Policy when you advance to the next era"],
+		"uniques": ["[+2 Happiness] from every [Mountain]",
+			    "[-50]% maintenance on road & railroads",
+			"No Maintenance costs for improvements in [Hill] tiles",
+			   "[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced","Double quantity of [Iron] produced","Double quantity of [Uranium] produced",
+			   ],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
@@ -75,7 +82,9 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feminine Love",
-		"uniques": ["Starts with [Writing]"],
+		"uniques": ["Starts with [Writing]",
+			   "[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]",
+			   "[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital"],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
@@ -102,7 +111,9 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feminine Love",
-		"uniques": ["Starts with [Masonry]"],
+		"uniques": ["Starts with [Masonry]","[+1 Gold] from each Trade Route", "Double quantity of [Oil] produced",
+			   "[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>",
+			   "[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
@@ -129,9 +140,17 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feminine Love",
-		"uniques": ["[+30]% Strength for cities <when attacking>","[+30]% Strength <vs [Barbarian] units>", "Receive a free Social Policy when you advance to the next era"],
+		"uniques": ["Cannot build [Settler] units","[+30]% Strength for cities <when attacking>","[+30]% Strength <vs [Barbarian] units>",
+			    "Receive a free [Great General] when you discover [Horseback Riding]","Great General provides double combat bonus", 
+			    "Receive triple Gold from Barbarian encampments and pillaging Cities", "[Great General] is earned [50]% faster",
+			   "[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast", "\"Borrows\" city names from other civilizations in the game"],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
 	}
 ]
+unused "Receive a free [Settler] when you discover [Bronze Working]"] "Receive a free [Settler] when you discover [Mining]",  does not work
+"Receive free [Great Scientist] when you discover [Writing]", 
+"May choose [2] additional belief(s) of any type when [founding] a religion",
+"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>","[-25]% maintenance costs <for [Land] units>",
+"[-66]% maintenance costs <for [Water] units>","When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>",
