@@ -10,6 +10,10 @@ For difficulty
  "[+1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]",
 			    "[-50]% Culture cost of adopting new Policies","Starts with [Pottery]","Starts with [Animal Husbandry]","Starts with [Mining]",
 			    "Starts with [The Wheel]","Starts with [Nuclear Fusion]","Starts with [Atomic Theory]"]
+			    
+			    "Starts with [Mobile Tactics]"
+			    
+			    "Starts with [Lasers]","Starts with [Electricity]"
   outbreak company
         o, 25 51
 	+5 Science, +5 Food, +5 Gold, +5 Production, +5 Culture, +5 Faith, +5 Happiness] from [All] tiles [in all cities],
