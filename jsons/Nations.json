@@ -179,5 +179,64 @@
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
 	},
 	  //City-States//
-	
+	{
+		"name": "Quebec City",
+		"adjective": ["Québécois"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [51,102,0],
+		"cities": ["Quebec City"]
+	},
+	{
+		"name": "Cape Town",
+		"adjective": ["Cape Town"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,153,153],
+		"cities": ["Cape Town"]
+	},
+	{
+		"name": "Singapore",
+		"adjective": ["Singaporean"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,255,0],
+		"cities": ["Singapore"]
+	},
+	{
+		"name": "Belgrade",
+		"adjective": ["Belgrade"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "Let's have a nice little War, shall we?",
+		"attacked": "If you need your nose bloodied, we'll happily serve.",
+		"defeated": "The serbian guerilla will never stop haunting you!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [211,180,113],
+		"cities": ["Belgrade"]
+	},
+	{
+		"name": "Jerusalem",
+		"adjective": ["Jerusalem"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [198,255,192],
+		"cities": ["Jerusalem"]
+	}
 ]
