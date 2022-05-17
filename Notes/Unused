@@ -28,9 +28,13 @@ bootleg of maya calendar not anymore
 
 industrial and scientific civs
 
-			   
-			   
-			   ,
+	 //Bonus//
+	"100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
+			"Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled",
+			   "[+1] Movement <for [Embarked] units>", "[1] Movement point cost to disembark <for [All] units>",
+			"No movement cost to pillage <for [Melee] units>",
+			   "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]"],
+Jerdain Organization, Dome Headquarters","Totem Bunkerbase","Polebind
 
 			   
 			   
