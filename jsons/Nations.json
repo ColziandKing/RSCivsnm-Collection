@@ -152,11 +152,10 @@
 	},
 	  //Bonus//
 	{
-		"name": "",
+		"name": "Jerdain Organization",
 		"leaderName": "Sarita Sephira Saldrigal",
 		"adjective": ["Salumian"],
 		"startBias": ["Plain","Jungle"],
-  	        "preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Be welcomed, princesses. You lead the beatiful and joyful nation of Salumi, a country filled more women than men with great cultural and bio diversity. ...One, two, three! Three had been the attempts to break free - getting terribly punished - but with determination, Salumi emerged to a great nation. Since the start we had a ton of great political division, which brought many problems and conflicts, but despite all the troubles, Salumi ought to help other no matter what. The conflicts didn't cease until early 21st century, where the sun finally rises over Salumi to achieve greatness.",
 		"startIntroPart2": "Princesses, your people want you to lead them to greatness. They want you to convert them in to the best nation. Will you answer the call? Can you fight and triump over the adversities? Can you build a civilization that can stand the pass of time?",
@@ -179,13 +178,13 @@
 			"No movement cost to pillage <for [Melee] units>",
 			   "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]"],
 
-		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
+		"cities": ["Dome Headquarters","Totem Bunkerbase","Polebind","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
 	},
 	  //City-States//
 	{
-		"name": "Quebec City",
-		"adjective": ["Québécois"],
+		"name": "Winssefa",
+		"adjective": ["Winsseffians"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -193,11 +192,11 @@
 		"defeated": "We were too weak to protect ourselves...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [76,0,153],
-		"cities": ["Quebec City"]
+		"cities": ["Winssei"]
 	},
 	{
-		"name": "Cape Town",
-		"adjective": ["Cape Town"],
+		"name": "Orlhium",
+		"adjective": ["Orlegiums"],
 		"cityStateType": "Maritime",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -205,11 +204,11 @@
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0, 102,204],
-		"cities": ["Cape Town"]
+		"cities": ["Orlhium"]
 	},
 	{
-		"name": "Singapore",
-		"adjective": ["Singaporean"],
+		"name": "Eshgor",
+		"adjective": ["Eshagorian"],
 		"cityStateType": "Mercantile",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -217,30 +216,30 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,0],
-		"cities": ["Singapore"]
+		"cities": ["Eshgor"]
 	},
 	{
-		"name": "Belgrade",
-		"adjective": ["Belgrade"],
+		"name": "Dorgainnodus",
+		"adjective": ["Sudnos"],
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "Let's have a nice little War, shall we?",
 		"attacked": "If you need your nose bloodied, we'll happily serve.",
-		"defeated": "The serbian guerilla will never stop haunting you!",
+		"defeated": "The Sudnos Ghost will never stop haunting you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,102,102],
-		"cities": ["Belgrade"]
+		"cities": ["Suddoronui"]
 	},
 	{
-		"name": "Jerusalem",
-		"adjective": ["Jerusalem"],
+		"name": "Servwhann",
+		"adjective": ["Servws"],
 		"cityStateType": "Religious",
 
-		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"declaringWar": "By God's grace we will not allow these atrocities to occur any longer. We declare war!",
 		"attacked": "May god have mercy on your evil soul.",
 		"defeated": "I for one welcome our new conquer overlord!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [224,224,224],
-		"cities": ["Jerusalem"]
+		"cities": ["Servor"]
 	}
 ]
