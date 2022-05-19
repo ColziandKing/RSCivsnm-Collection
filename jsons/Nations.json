@@ -24,8 +24,8 @@
 		"afterPeace": "Better not attack us again, God is stronger than any metal",
 		"tradeRequest": "I  thought you might be intested in this...",
 
-	        "outerColor": [255,51,255],
-		"innerColor": [255,204,255],
+	        "outerColor": [12,75,25],
+		"innerColor": [157,172,255],
 
 		"uniqueName": "Salumi Feminine Love",
 		"uniques": ["[+2 Faith] from every [Mountain]","Units ignore terrain costs when moving into any tile with Hills",
@@ -56,8 +56,8 @@
 		"afterPeace": "Better not attack us again, God is stronger than any metal",
 		"tradeRequest": "I  thought you might be intested in this...",
 
-	        "outerColor": [255,51,255],
-		"innerColor": [255,204,255],
+	        "outerColor": [236, 178, 0],
+		"innerColor": [0,0,0],
 
 		"uniqueName": "Salumi Feminine Love",
 		"uniques": ["[+2 Happiness] from every [Mountain]","[-50]% maintenance on road & railroads",
@@ -88,8 +88,8 @@
 		"afterPeace": "Better not attack us again, God is stronger than any metal",
 		"tradeRequest": "I  thought you might be intested in this...",
 
-	        "outerColor": [255,51,255],
-		"innerColor": [255,204,255],
+	        "outerColor": [26,32,96],
+		"innerColor": [255,0,0],
 
 		"uniqueName": "Salumi Feminine Love",
 		"uniques": ["Starts with [Writing]","[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]",
@@ -118,8 +118,8 @@
 		"afterPeace": "Better not attack us again, God is stronger than any metal",
 		"tradeRequest": "I  thought you might be intested in this...",
 
-	        "outerColor": [255,51,255],
-		"innerColor": [255,204,255],
+	        "outerColor": [181, 232, 232],
+		"innerColor": [68,142,249],
 
 		"uniqueName": "Salumi Feminine Love",
 		"uniques": ["Starts with [Masonry]","[+1 Gold] from each Trade Route", "Double quantity of [Oil] produced",
@@ -148,8 +148,8 @@
 		"afterPeace": "Better not attack us again, God is stronger than any metal",
 		"tradeRequest": "I  thought you might be intested in this...",
 
-	        "outerColor": [255,51,255],
-		"innerColor": [255,204,255],
+	        "outerColor": [214,145,19],
+		"innerColor": [90,0,10],
 
 		"uniqueName": "Salumi Feminine Love",
 		"uniques": ["Cannot build [Settler] units","New [All] units start with [50] Experience","[+30]% Strength <vs [Barbarian] units>",
@@ -158,66 +158,6 @@
 			    "\"Borrows\" city names from other civilizations in the game","[+30]% Strength for cities <when attacking>"],
 
 		"cities": ["Magroonaguio"]
-	},
-	  //City-States//
-	{
-		"name": "Winssefa",
-		"adjective": ["Winsseffians"],
-		"cityStateType": "Cultured",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We were too weak to protect ourselves...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [76,0,153],
-		"cities": ["Winssei"]
-	},
-	{
-		"name": "Orlhium",
-		"adjective": ["Orlegiums"],
-		"cityStateType": "Maritime",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "I have failed. May you, at least, know compassion towards our people.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [0, 102,204],
-		"cities": ["Orlhium"]
-	},
-	{
-		"name": "Eshgor",
-		"adjective": ["Eshagorian"],
-		"cityStateType": "Mercantile",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,255,0],
-		"cities": ["Eshgor"]
-	},
-	{
-		"name": "Dorgainnodus",
-		"adjective": ["Sudnos"],
-		"cityStateType": "Militaristic",
-
-		"declaringWar": "Let's have a nice little War, shall we?",
-		"attacked": "If you need your nose bloodied, we'll happily serve.",
-		"defeated": "The Sudnos Ghost will never stop haunting you!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,102,102],
-		"cities": ["Suddoronui"]
-	},
-	{
-		"name": "Servwhann",
-		"adjective": ["Servws"],
-		"cityStateType": "Religious",
-
-		"declaringWar": "By God's grace we will not allow these atrocities to occur any longer. We declare war!",
-		"attacked": "May god have mercy on your evil soul.",
-		"defeated": "I for one welcome our new conquer overlord!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [224,224,224],
-		"cities": ["Servor"]
 	}
+	//City-States//
 ]
