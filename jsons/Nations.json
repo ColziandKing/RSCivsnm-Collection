@@ -30,7 +30,9 @@
 		"uniques": ["[+2 Faith] from every [Mountain]",
 			   "[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>",
 			   "[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>",
-			   "Units ignore terrain costs when moving into any tile with Hills"],
+			   "Units ignore terrain costs when moving into any tile with Hills",
+			   "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
 
 		"cities": ["Pantheor","Wavisii","Nubana","Nuraba"]
 	},
@@ -67,7 +69,7 @@
 	},
 	{
 		"name": "Relmorgius",
-		"leaderName": "Sarita Sephira Saldrigal",
+		"leaderName": "Sally Xai Chengwon",
 		"adjective": ["Salumian"],
 		"startBias": ["Plain","Jungle"],
   	        "preferredVictoryType": "Diplomatic",
@@ -98,7 +100,7 @@
 	},
 	{
 		"name": "Arxemlio",
-		"leaderName": "Sarita Sephira Saldrigal",
+		"leaderName": "Cashvew Jerome Alkansyavo",
 		"adjective": ["Salumian"],
 		"startBias": ["Plain","Jungle"],
   	        "preferredVictoryType": "Scientific",
@@ -150,10 +152,10 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feminine Love",
-		"uniques": ["Cannot build [Settler] units","[+30]% Strength for cities <when attacking>","[+30]% Strength <vs [Barbarian] units>",
+		"uniques": ["Cannot build [Settler] units","New [All] units start with [50] Experience","[+30]% Strength <vs [Barbarian] units>",
 			    "Receive a free [Great General] when you discover [Horseback Riding]","Great General provides double combat bonus", 
 			    "Receive triple Gold from Barbarian encampments and pillaging Cities", "[Great General] is earned [50]% faster",
-			    "\"Borrows\" city names from other civilizations in the game"],
+			    "\"Borrows\" city names from other civilizations in the game","[+30]% Strength for cities <when attacking>"],
 
 		"cities": ["Magroonaguio"]
 	},
