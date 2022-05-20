@@ -357,6 +357,7 @@
 		"uniques": ["[+2 Faith] from every [Mountain]","Units ignore terrain costs when moving into any tile with Hills",
 			    "[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>",
 			   "[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>",
+			    "May choose [2] additional belief(s) of any type when [founding] a religion",
 			   "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
 			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
 
