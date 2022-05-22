@@ -389,7 +389,7 @@
 		"uniqueName": "Mechanical Marvel",
 		"uniques": ["[+2 Happiness] from every [Mountain]","[-50]% maintenance on road & railroads","[-40]% Culture cost of adopting new Policies",
 			"No Maintenance costs for improvements in [Hill] tiles",
-			    "[+20]% Production towards any buildings that already exist in the Capital", 
+			    "[+20]% Production towards any buildings that already exist in the Capital","[Military] units gain the [Charge] promotion",
 			   "[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced","Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
 
 		"cities": ["Quenrah","Riensang","Sceanaoriff","Tuera West","Uemova"]
