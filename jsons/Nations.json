@@ -139,7 +139,7 @@
 			   "Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>", "Normal vision when embarked <for [All] units>", "[+10]% Strength <within [2] tiles of a [Moai]>",
 			   "Retain [50]% of the happiness from a luxury after the last copy has been traded away",
 			   "[Land] units gain the [Amphibious] promotion", "Defense bonus when embarked <for [All] units>"],
-		"cities": ["Mukhakhatii","Gulalamaneia","Aweihura","Shire of Haitenua"]
+		"cities": ["Mukhakhatii","Gulalamaneia","Aweihura","Shire of Haitenua","Philippines","Malaysia","Guineas"]
 	},
 	{
 		"name": "Chediluen",
