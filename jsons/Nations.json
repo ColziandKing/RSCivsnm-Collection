@@ -30,7 +30,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Scientific Sanctuary States",
 		"uniques": ["Receive a free [Great Scientist] when you discover [Philosophy]","[+2 Science] from every [Mountain]",
-			   "[Great Scientist] is earned [50]% faster","[+25]% [Science] [in annexed cities]",
+			   "[Great Scientist] is earned [50]% faster","[+25]% [Science] [in annexed cities]","[-40]% Culture cost of adopting new Policies",
 			   "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
 			   "[-10]% Culture cost of natural border growth [in all cities]","+[15]% combat bonus for units fighting in [Friendly Land]"],
 		
@@ -69,7 +69,7 @@
 		"innerColor": [146,221,9],
 		"uniqueName": "Cultural Conquest",
 		"uniques": ["Receive free [Great Artist] when you discover [Drama and Poetry]","[+2 Culture] from every [Mountain]",
-			   "[+6 Culture] from every [Landmark]","[Great Artist] is earned [25]% faster",
+			   "[+6 Culture] from every [Landmark]","[Great Artist] is earned [25]% faster","[-40]% Culture cost of adopting new Policies",
 			   "Earn [100]% of killed [Military] unit's [Strength] as [Culture]","[+1 Culture, +1 Gold] from each Trade Route"],
 		"cities": ["Umiratie Landscape","Caravansary Company","Harimyar Harvest Hills","Ountain Generator","Spirit Fills"]
 	},
@@ -101,7 +101,7 @@
 		"outerColor": [10,10,10],
 		"innerColor": [245,245,245],
 		"uniqueName": "Domination & Submission",
-		"uniques": ["Receive free [Great Engineer] when you discover [Engineering]","[+2 Production] from every [Mountain]",
+		"uniques": ["Receive free [Great Engineer] when you discover [Engineering]","[+2 Production] from every [Mountain]","[-40]% Culture cost of adopting new Policies",
 			   "[-50]% maintenance costs <for [Melee] units>","[Military] units gain [25]% more Experience from combat","[+2] Movement <for [Water] units>",
 			   "Units fight as though they were at full strength even when damaged","[+1 Culture] from every [Fishing Boats]","[+2 Culture] from every [Atoll]"]
 		"cities": ["Azibhania Fortspance","Uemsphire Citadel","Ravimines Deposit"]
@@ -135,7 +135,7 @@
 		"outerColor": [255,255,78],
 		"innerColor": [225,105,0], 
 		"uniqueName": "Expedition Alliance",
-		"uniques": ["Receive a free [Great Merchant] when you discover [Currency]","[+2 Gold] from every [Mountain]",
+		"uniques": ["Receive a free [Great Merchant] when you discover [Currency]","[+2 Gold] from every [Mountain]","[-40]% Culture cost of adopting new Policies",
 			   "Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>", "Normal vision when embarked <for [All] units>", "[+10]% Strength <within [2] tiles of a [Moai]>",
 			   "Retain [50]% of the happiness from a luxury after the last copy has been traded away",
 			   "[Land] units gain the [Amphibious] promotion", "Defense bonus when embarked <for [All] units>"],
@@ -166,7 +166,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Republic Freedom",
 		"uniques": ["Receive a free [Great Prophet] when you discover [Theology]","[+2 Food] from every [Mountain]",
-			   "May choose [1] additional belief(s) of any type when [founding] a religion",
+			   "May choose [1] additional belief(s) of any type when [founding] a religion","[-40]% Culture cost of adopting new Policies",
 			   "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.",
 			   "Damage is ignored when determining unit Strength <for [non-air] units>"]
 		"cities": ["Hopiia","Lantennant","Opolisia","Nagur Slopes","Lierharp"]
@@ -198,7 +198,7 @@
 		"uniques": ["[+1 Science] from [All] tiles [in all cities]", "Starts with [Archery]","Starts with [Trapping]",
 			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
-			    "Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled","[-30]% Culture cost of adopting new Policies",
+			    "Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled","[-50]% Culture cost of adopting new Policies",
 			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+50] XP"]
 	},
 	{
@@ -226,7 +226,7 @@
 		"uniqueName": "Matriarch Heart",
 		"uniques": ["+1 Culture, +1 Happiness] from [All] tiles [in all cities]","Starts with [Calendar]","[+3 Gold] from every [Luxury resource]",
 			   "[+2 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","Receive a free Social Policy when you advance to the next era",
-			   "[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+			   "[+20]% Strength <when fighting units from a Civilization with more Cities than you>","[-40]% Culture cost of adopting new Policies"],
 
 		"cities": ["Saludon","Saludonio","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sophia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
@@ -259,7 +259,7 @@
 		"uniques": ["Starts with [Mining]","Starts with [Bronze Working]","[+1 Production] from [All] tiles [in all cities]",
 			   "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]",
 			   "[+3 Production] from every [Strategic resource]","[+20]% Production when constructing [All] wonders [in all cities]",
-			   "[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast"],
+			   "[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast","[-40]% Culture cost of adopting new Policies"],
 
 		"cities": ["Leonorre","Leo Volt","Seon-Voe","Leono","Leona","Le Nova","Sardaze"]
 	},
@@ -290,9 +290,9 @@
 		"uniqueName": "Coastal Express",
 		"uniques": ["Starts with [Pottery]","Starts with [Sailing]", "[+1 Food, +1 Gold] from [All] tiles [in all cities]","+[100]% [Gold] [in capital]",
 			    "Gain a free [Harbor] [in all coastal cities]","Land units may cross [Mountain] tiles after the first [Great General] is earned",
-			  "Units ignore terrain costs when moving into any tile with Mountain",
+			  "Units ignore terrain costs when moving into any tile with Mountain","[-40]% Culture cost of adopting new Policies",
 			    "[+3 Gold, +1 Culture] from every [Land Trade Route (Food)]","[+1 Gold] from every [Land Trade Route (Production)]",
-			"[+1 Gold] from every [Land Trade Route (Gold)]","[+1 Gold] from every [Sea Trade Route (Food)]",
+			"[+1 Gold] from every [Land Trade Route (Gold)]","[+1 Gold] from every [Sea Trade Route (Food)]","[-40]% Culture cost of adopting new Policies",
 			"[+1 Gold] from every [Sea Trade Route (Production)]","[+1 Gold] from every [Sea Trade Route (Gold)]"],
 
 		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella"]
@@ -323,7 +323,7 @@
 
 		"uniqueName": "Fullysianth Song",
 		"uniques": ["Starts with [Animal Husbandry]","Starts with [The Wheel]","[+1 Faith] from [All] tiles [in all cities]",
-			   "+30% Strength when fighting City-State units and cities", "[+1] Movement <for [Mounted] units>",
+			   "+30% Strength when fighting City-State units and cities", "[+1] Movement <for [Mounted] units>","[-40]% Culture cost of adopting new Policies",
 			   "Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation"],
 
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran"]
@@ -357,7 +357,7 @@
 		"uniques": ["[+2 Faith] from every [Mountain]","Units ignore terrain costs when moving into any tile with Hills",
 			    "[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>",
 			   "[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>",
-			    "May choose [2] additional belief(s) of any type when [founding] a religion",
+			    "May choose [2] additional belief(s) of any type when [founding] a religion","[-40]% Culture cost of adopting new Policies",
 			   "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
 			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
 
@@ -387,7 +387,7 @@
 		"innerColor": [0,0,0],
 
 		"uniqueName": "Mechanical Marvel",
-		"uniques": ["[+2 Happiness] from every [Mountain]","[-50]% maintenance on road & railroads",
+		"uniques": ["[+2 Happiness] from every [Mountain]","[-50]% maintenance on road & railroads","[-40]% Culture cost of adopting new Policies",
 			"No Maintenance costs for improvements in [Hill] tiles",
 			    "[+20]% Production towards any buildings that already exist in the Capital", 
 			   "[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced","Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
@@ -420,7 +420,7 @@
 
 		"uniqueName": "Ages of Dynasty",
 		"uniques": ["Starts with [Writing]","[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]",
-			   "[+50]% [Culture] [in all cities] <during a Golden Age>","[Great Artist] is earned [50]% faster <during a Golden Age>",
+			   "[+50]% [Culture] [in all cities] <during a Golden Age>","[Great Artist] is earned [50]% faster <during a Golden Age>","[-40]% Culture cost of adopting new Policies",
 			   "[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital"],
 
 		"cities": ["Banjheong-Fuojin","FormerSlaveCamp Village","Hedoyu"]
@@ -449,7 +449,7 @@
 		"innerColor": [68,142,249],
 
 		"uniqueName": "Ancient Rebuilding",
-		"uniques": ["Starts with [Masonry]","[+1 Gold] from each Trade Route", "Double quantity of [Oil] produced",
+		"uniques": ["Starts with [Masonry]","[+1 Gold] from each Trade Route", "Double quantity of [Oil] produced","[-40]% Culture cost of adopting new Policies",
 			   "[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>",
 			   "[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
 
@@ -481,7 +481,7 @@
 		"uniqueName": "Fight Dealer",
 		"uniques": ["Cannot build [Settler] units","New [All] units start with [50] Experience","[+30]% Strength <vs [Barbarian] units>",
 			    "Receive a free [Great General] when you discover [Horseback Riding]","Great General provides double combat bonus", 
-			    "Receive triple Gold from Barbarian encampments and pillaging Cities", "[Great General] is earned [50]% faster",
+			    "Receive triple Gold from Barbarian encampments and pillaging Cities", "[Great General] is earned [50]% faster","[-40]% Culture cost of adopting new Policies",
 			    "\"Borrows\" city names from other civilizations in the game","[+30]% Strength for cities <when attacking>"],
 
 		"cities": ["Magroonaguio"]
