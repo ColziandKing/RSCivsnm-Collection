@@ -479,10 +479,11 @@
 		"innerColor": [90,0,10],
 
 		"uniqueName": "Fight Dealer",
-		"uniques": ["Cannot build [Settler] units","New [All] units start with [50] Experience","[+30]% Strength <vs [Barbarian] units>",
+		"uniques": ["Cannot build [Settler] units","New [Military] units start with [50] Experience","[+30]% Strength <vs [Barbarian] units>",
 			    "Receive a free [Great General] when you discover [Horseback Riding]","Great General provides double combat bonus", 
 			    "Receive triple Gold from Barbarian encampments and pillaging Cities", "[Great General] is earned [50]% faster","[-40]% Culture cost of adopting new Policies",
-			    "\"Borrows\" city names from other civilizations in the game","[+30]% Strength for cities <when attacking>"],
+			    "\"Borrows\" city names from other civilizations in the game","[+30]% Strength for cities <when attacking>",
+			    "Enables embarkation for land units <starting from the [Ancient era]>"],
 
 		"cities": ["Magroonaguio"]
 	}
