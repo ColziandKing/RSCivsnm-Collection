@@ -34,8 +34,8 @@
 			   "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
 			   "[-10]% Culture cost of natural border growth [in all cities]","+[15]% combat bonus for units fighting in [Friendly Land]"],
 		
-		"cities": ["Ziandestria","Kenth","Ilumaran Irath","Giraceus","Fleyjanite Angnariant","Estria-Ziand","Thertral","Sunianoonaries","Arigamoto","Fyangh",
-			  "Divinestria","Central Heart","Ilumara Ira","Gira","Fleyja Angnara"]
+		"cities": ["Divinestria","Central Heart","Kenth","Ilumara Ira","Ilumaran Irath","Gira","Giraceus","Fleyjanite Angnariant","Fleyja Angnara",
+			   "Estria-Ziand","Thertral","Sunianoonaries","Arigamoto","Fyangh"]
 	},
 	{
 		"name": "Umiratie Dynasty",
@@ -482,8 +482,7 @@
 		"uniques": ["Cannot build [Settler] units","New [Military] units start with [50] Experience","[+30]% Strength <vs [Barbarian] units>",
 			    "Receive a free [Great General] when you discover [Horseback Riding]","Great General provides double combat bonus", 
 			    "Receive triple Gold from Barbarian encampments and pillaging Cities", "[Great General] is earned [50]% faster","[-40]% Culture cost of adopting new Policies",
-			    "\"Borrows\" city names from other civilizations in the game","[+30]% Strength for cities <when attacking>",
-			    "Enables embarkation for land units <starting from the [Ancient era]>"],
+			    "\"Borrows\" city names from other civilizations in the game","[+30]% Strength for cities <when attacking>"],
 
 		"cities": ["Magroonaguio"]
 	}
