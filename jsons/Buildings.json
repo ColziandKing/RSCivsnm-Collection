@@ -1,7 +1,310 @@
 [
+	 {
+		"name": "Stele",
+		"replaces": "Monument",
+		"uniqueTo": "Salumi",
+		"culture": 2,
+		"faith": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
+	},
+  {
+		"name": "Pyramid",
+		"replaces": "Shrine",
+		"uniqueTo": "Colziand",
+		"faith": 2,
+		"science": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
+		"name": "Paper Maker",
+		"replaces": "Library",
+		"uniqueTo": "Fullysia",
+		"hurryCostModifier": 25,
+		"gold": 2,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Floating Gardens",
+		"replaces": "Water Mill",
+		"uniqueTo": "Suzainswellia",
+		"food": 2,
+		"production": 1,
+		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"percentStatBonus": {"food": 15},
+		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Walls of Babylon",
+		"replaces": "Walls",
+		"cost": 65,
+		"uniqueTo": "Salveo",
+		"cityStrength": 6,
+		"cityHealth": 100,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Krepost",
+		"replaces": "Barracks",
+		"uniqueTo": "Colziand",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
+			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Burial Tomb",
+		"replaces": "Temple",
+		"uniqueTo": "Suzainswellia",
+		"maintenance": 0,
+		"uniques": ["Doubles Gold given to enemy if city is captured"],
+		"faith": 2,
+		"happiness": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Mud Pyramid Mosque",
+		"replaces": "Temple",
+		"uniqueTo": "Salveo",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"culture": 2,
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Bazaar",
+		"replaces": "Market",
+		"uniqueTo": "Salumi",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Longhouse",
+		"replaces": "Workshop",
+		"uniqueTo": "Fullysia",
+		"cost": 100,
+		"maintenance": 2,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Wat",
+		"replaces": "University",
+		"uniqueTo": "Fullysia",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"culture": 3,
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Mughal Fort",
+		"cost": 150,
+		"replaces": "Castle",
+		"uniqueTo": "Salveo",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>", "Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
+	},
+	{
+		"name": "Ceilidh Hall",
+		"replaces": "Opera House",
+		"uniqueTo": "Salumi",
+		"culture": 4,
+		"happiness": 3,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Satrap's Court",
+		"replaces": "Bank",
+		"uniqueTo": "Colziand",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"happiness": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+{
+		"name": "Coffee House",
+		"replaces": "Windmill",
+		"uniqueTo": "Suzainswellia",
+		"production": 2,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"requiredTech": "Economics"
+	},
+    //BNW//
+    {
+		"name": "Royal Library",
+		"replaces": "Library",
+		"uniqueTo": "Salumi",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]","New [Military] units start with [10] Experience [in this city]"],
+		"requiredTech": "Writing"
+	},
+	   {
+        "name": "Ducal Stable", 
+        "replaces": "Stable",
+        "uniqueTo": "Colziand",
+        "cost": 75,
+        "maintenance": 0,
+        "requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+        "hurryCostModifier": 25,
+        "uniques": ["New [Mounted] units start with [15] Experience [in this city]","[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
+        "requiredTech": "Horseback Riding"
+    },
+    {
+        "name": "Ikanda", 
+        "replaces": "Barracks",
+        "uniqueTo": "Salveo",
+        "cost": 75,
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+		"uniques": ["Destroyed when the city is captured","New [Military] units start with [15] Experience [in this city]","All newly-trained [Sword] units [in this city] receive the [Buffalo Horns] promotion"],
+        "requiredTech": "Bronze Working"
+    },
+	    {
+        "name": "Candi", 
+        "replaces": "Garden",
+        "uniqueTo": "Suzainswellia",
+        "cost": 120,
+        "faith": 3,
+        "uniques": ["[+25]% great person generation [in this city]"],
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "requiredTech": "Drama and Poetry"
+    },
+	    {
+        "name": "Hanse",
+        "replaces": "Bank",
+        "uniqueTo": "Suzainswellia",      
+        "gold": 2,
+        "specialistSlots": {"Merchant": 1},
+        "hurryCostModifier": 15,
+        "uniques": ["[+5]% [Production] [in this city]",
+            "[+25]% [Gold] [in this city]","Requires a [Market] [in this city]"],
+        "requiredTech": "Banking"
+    },
+	//Ancient
+    {
+		"name": "Ziggurat",
+		"replaces": "Temple",
+		"uniqueTo": "Umiratie Emirate", 
+		"maintenance": 3,
+		"faith": 1,
+		"science": 1,
+		"specialistSlots": {"Scientist": 1},
+		"cost":120,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Faith] from [River] tiles [in this city]","1 Scientist slot"],
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Synagogue",
+		"replaces": "Temple",
+		"uniqueTo": "Eisnia Archipelago", 
+		"faith": 2,
+		"happiness": 1,
+		"gold": 2,
+		"cost": 100,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Shrine"
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Sphinx Gate",
+		"replaces": "Courthouse",
+		"uniqueTo": "Chediluen", 
+		"cityStrength": 2,
+		"cityHealth": 25,
+		"cost": 120,
+		"maintenance": 4,
+		"culture": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities","New [Military] units start with [10] Experience [in this city]"],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Khachkar",
+		"replaces": "Shrine",
+		"uniqueTo": "Eisnia Archipelago", 
+		"faith": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"uniques": ["[+2 Faith] from [Mountain] tiles [in this city]"]
+	},
 		{
+		"name": "Slave Market",
+		"replaces": "Market",
+		"uniqueTo": "Umiratie Emirate",
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"gold": 4,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Free [Worker] appears"],
+		"requiredTech": "Currency"
+	},
+	    {
+		"name": "Smeltery",
+        "replaces": "Forge",
+		"uniqueTo": "Azibhania",
+        "maintenance": 1,
+		"production": 1,
+        "hurryCostModifier": 25,
+        "requiredTech": "Iron Working",
+        "uniques": ["Provides [2] [Iron]","[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]"]
+    },
+	//Old Medieval Mod\\
+    {
         "name": "Deus Vult",
-	"uniqueTo": "Papal States",
+	"uniqueTo": "Arxemlio",
         "cost": -1,
 	"isNationalWonder": true,
 	"cannotBeBuiltWith": "Palace",
@@ -10,7 +313,7 @@
 },
 {
         "name": "Call the Crusade",
-        "uniqueTo": "Papal States",
+        "uniqueTo": "Arxemlio",
 	"isNationalWonder": true,
         "cost": -1,
 	"cannotBeBuiltWith": "Deus Vult",
@@ -21,7 +324,7 @@
 	},
 	{
         "name": "Saint Relics",
-        "uniqueTo": "Papal States",
+        "uniqueTo": "Arxemlio",
 	"isNationalWonder": true,
         "cost": -1,
 	"cannotBeBuiltWith": "Deus Vult",
@@ -32,7 +335,7 @@
 	},
 		{
         "name": "Synod",
-        "uniqueTo": "Papal States",
+        "uniqueTo": "Arxemlio",
 	"isNationalWonder": true,
         "cost": -1,
 	"cannotBeBuiltWith": "Deus Vult",
@@ -43,14 +346,14 @@
 	},
 	{
 	"name": "The Roof of the World",
-	"uniqueTo": "Tibetan",
+	"uniqueTo": "Relmorgius",
 	"cost": -1,
 	"providesFreeBuilding": "Garden",
 	"uniques": ["Will not be displayed in Civilopedia", "Must be next to [Mountain]"],
 	},
 	{
 	"name": "Social Change (Tradition)",
-	"uniqueTo": "Republic of Genoa",
+	"uniqueTo": "Yanzerhan",
 	"isNationalWonder": true,
 	"cost": 150,
 	"requiredBuilding": "Palace",
@@ -58,7 +361,7 @@
 	},
 		{
 	"name": "Social Change (Liberty)",
-	"uniqueTo": "Republic of Genoa",
+	"uniqueTo": "Yanzerhan",
 	"isNationalWonder": true,
 	"cost": 150,
 	"requiredBuilding": "Palace",
@@ -66,7 +369,7 @@
 	},
 		{
 	"name": "Social Change (Honor)",
-	"uniqueTo": "Republic of Genoa",
+	"uniqueTo": "Yanzerhan",
 	"isNationalWonder": true,
 	"cost": 150,
 	"requiredBuilding": "Palace",
@@ -74,7 +377,7 @@
 	},
 		{
 	"name": "Social Change (Piety)",
-	"uniqueTo": "Republic of Genoa",
+	"uniqueTo": "Yanzerhan",
 	"isNationalWonder": true,
 	"cost": 250,
 	"requiredBuilding": "Palace",
@@ -82,7 +385,7 @@
 	},
 		{
 	"name": "Social Change (Commerce)",
-	"uniqueTo": "Republic of Genoa",
+	"uniqueTo": "Yanzerhan",
 	"isNationalWonder": true,
 	"cost": 350,
 	"requiredBuilding": "Palace",
@@ -90,7 +393,7 @@
 	},
 			{
 	"name": "Social Change (Rationalism)",
-	"uniqueTo": "Republic of Genoa",
+	"uniqueTo": "Yanzerhan",
 	"isNationalWonder": true,
 	"cost": 500,
 	"requiredBuilding": "Palace",
@@ -98,7 +401,7 @@
 	},
 			{
 	"name": "Social Change (Freedom)",
-	"uniqueTo": "Republic of Genoa",
+	"uniqueTo": "Yanzerhan",
 	"isNationalWonder": true,
 	"cost": 500,
 	"requiredBuilding": "Palace",
@@ -106,7 +409,7 @@
 	},
 			{
 	"name": "Social Change (Autocracy)",
-	"uniqueTo": "Republic of Genoa",
+	"uniqueTo": "Cannetalhion",
 	"isNationalWonder": true,
 	"cost": 700,
 	"requiredBuilding": "Palace",
@@ -115,7 +418,7 @@
 	{
 		"name": "Var",
 		"replaces": "Castle",
-		"uniqueTo": "Hungarian", 
+		"uniqueTo": "Jerdain Organization", 
 		"cityStrength": 9,
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
@@ -126,7 +429,7 @@
 	{
 		"name": "Vihara",
 		"replaces": "Monastery",
-		"uniqueTo": "Champa", 
+		"uniqueTo": "Palneothic", 
 		"maintenance": 0,
 		"hurryCostModifier": 25,
        		"cost": 160,
@@ -136,7 +439,7 @@
 	{
 		"name": "Prasat",
 		"replaces": "Castle",
-		"uniqueTo": "Khmers", 
+		"uniqueTo": "Palneothic", 
 		"specialistSlots": {"Artist": 1, "Engineer": 1},
        		"cost": 200,
 		"hurryCostModifier": 25,
@@ -146,7 +449,7 @@
 {
 		"name": "Water Puppet Theatre",
 		"replaces": "Opera House",
-		"uniqueTo": "Viet nam", 
+		"uniqueTo": "Suzainswellia", 
 		"culture": 3,
 		"happiness": 1,
 		"specialistSlots": {"Artist": 1},
@@ -160,7 +463,7 @@
 		{
 		"name": "Winery",
 		"replaces": "Market",
-		"uniqueTo": "Sicily",
+		"uniqueTo": "Magroonaguio",
 		"gold": 2,
 		"culture": 2,
 		"specialistSlots": {"Merchant": 1},
@@ -172,7 +475,7 @@
 		{
 		"name": "Kumbum",
 		"replaces": "Temple",
-		"uniqueTo": "Tibetan", 
+		"uniqueTo": "Syndria Operations", 
 		"hurryCostModifier": 25,
        	"cost": 120,
 		"culture": 1,
@@ -180,4 +483,13 @@
 		"uniques": ["[+1 Culture] from [Hill] tiles in this city"],
 		"requiredTech": "Philosophy"
 	},
+	//New Medieval\\
+	{
+		"name": "Stave Church",
+		"replaces": "Temple",
+		"uniqueTo": "Chediluen",
+		"faith": 2,
+		"cost": 50,
+		"requiredTech": "Philosophy",
+	}
 ]
